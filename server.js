@@ -1,3 +1,4 @@
+// @ts-nocheck
 var express = require("express"),
     app = express();
 
